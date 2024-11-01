@@ -1,0 +1,10 @@
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 9 - Workshop Calculator\Workshop Calculator\bin\Debug\Workshop Calculator.exe.config
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 9 - Workshop Calculator\Workshop Calculator\bin\Debug\Workshop Calculator.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 9 - Workshop Calculator\Workshop Calculator\bin\Debug\Workshop Calculator.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 9 - Workshop Calculator\Workshop Calculator\obj\Debug\Workshop Calculator.csproj.AssemblyReference.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 9 - Workshop Calculator\Workshop Calculator\obj\Debug\Workshop_Calculator.FormCalculator.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 9 - Workshop Calculator\Workshop Calculator\obj\Debug\Workshop_Calculator.Properties.Resources.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 9 - Workshop Calculator\Workshop Calculator\obj\Debug\Workshop Calculator.csproj.GenerateResource.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 9 - Workshop Calculator\Workshop Calculator\obj\Debug\Workshop Calculator.csproj.CoreCompileInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 9 - Workshop Calculator\Workshop Calculator\obj\Debug\Workshop Calculator.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 9 - Workshop Calculator\Workshop Calculator\obj\Debug\Workshop Calculator.pdb
